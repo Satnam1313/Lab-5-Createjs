@@ -1,4 +1,3 @@
-# COMP125-Lesson12
-
-## CreateJS with TypeScript
+# Lab-5
+## CreateJS 
 
