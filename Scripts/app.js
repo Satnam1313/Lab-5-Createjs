@@ -2,12 +2,14 @@
 /**
  * FileName: app.js
  *
- * @author Tom Tsiliopoulos
+ * @author Satnam Singh
  * @date August 3, 2016
  *
- * StudentID: 300818557
+ * StudentID: 300875942
  *
  * @description This file is the main javascript file for the web site
+ * github:https://github.com/Satnam1313/Lab-5-Createjs
+ * azure website:http://lab-5-createjs.azurewebsites.net/
  */
 // IIFE - Immediately Invoked Function Expression
 (function() {
