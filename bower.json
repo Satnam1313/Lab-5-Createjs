@@ -1,0 +1,28 @@
+{
+  "name": "Lab-5 Createjs",
+  "authors": [
+    "Satnam Singh <satnamsingh13135@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/Satnam1313/Lab-5-Createjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "jquery": "^2.2.4",
+    "EaselJS": "easeljs#^0.8.2",
+    "TweenJS": "^0.6.2",
+    "SoundJS": "^0.6.2",
+    "PreloadJS": "^0.6.2"
+  },
+  "private": true
+}
